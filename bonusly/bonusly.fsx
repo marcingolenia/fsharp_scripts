@@ -11,28 +11,14 @@ let shuffle list =
 
 let cybervadians =
     [|
-      "@psuchwalko"
-      "@amierzwinska"
-      "@bartlomiej.lukasik"
-      "@bpieper"
-      "@djuchnowicz"
-      "@djurkowski"
-      "@kamila.juchnicka"
-      "@karol.wolek"
-      "@krzysztof.madej"
-      "@lukasz.krzywizna"
-      "@mpawluk"
-      "@mdabrowski"
-      "@mateusz.urban"
-      "@mwyrebski"
-      "@plipski"
-      "@pswiderski"
-      "@przemyslaw.bialek"
-      "@skrepski"
-      "@spawlowski"
-      "@santos"
-      "@tomasz.batko"
-      "@tomasz.klepacki"
+      "@johnsmith"
+      "@mgolenia"
+      "@thom.johnson"
+      "@btalker"
+      "@rtychowsky"
+      "@agrzeszczak"
+      "@anoton"
+      "@solip"
     |]
 
 let praises =
